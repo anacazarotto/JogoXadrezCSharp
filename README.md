@@ -15,8 +15,3 @@ Este é um jogo de xadrez implementado para ser jogado no console. O jogo foi de
 2. Abra o projeto em um ambiente de desenvolvimento C# (Visual Studio, Visual Studio Code, etc.).
 3. Execute o projeto.
 4. Siga as instruções exibidas no console para jogar as partidas.
-
-## Autor
-
-Este projeto foi desenvolvido por mim, ao qual realizei através do curso C# COMPLETO Programação Orientada a Objetos + Projetos da Udemy.
-
